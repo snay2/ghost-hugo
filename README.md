@@ -11,10 +11,10 @@ to each post with that permalink.
 
 ## Execution
 
-Put your `GhostData.json` file in the same directory as `convert.py` and run
+Put your `GhostData.json` file in the same directory as `ghost-hugo.py` and run
 it:
 
-    $ python convert.py
+    $ python ghost-hugo.py
 
 This will create a directory called `output` that you can then move to your
 Hugo `content` directory and rename to whatever you want.
